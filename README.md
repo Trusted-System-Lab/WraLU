@@ -5,9 +5,7 @@
 Welcome to **WraLU**—the **ReLU Hull Approximation** tool that’s revolutionizing neural network verification!
 WraLU is designed to calculate the **ReLU hull**, an essential technique for overcoming the challenges of non-linearity in activation functions. If you're working on neural network verification or robustness, WraLU is your go-to solution for fast and precise ReLU hull approximation.
 
-> **TIP**: You can download our benchmark ONNX neural network models in the paper from [Google Drive link](https://drive.google.com/file/d/1NDENMK_evnNnzgx2ioCefcs-Dq3biQqL/view?usp=sharing).
-
-This is an artifact for our paper [ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917) (POPL’24). You can cite our paper if you find WraLU useful in your research.
+This is an artifact for our paper [ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917) (POPL'24). You can cite our paper if you find WraLU useful in your research.
 
 ```bibtex
 @article{ma2024relu,
@@ -27,6 +25,11 @@ This is an artifact for our paper [ReLU Hull Approximation](https://dl.acm.org/d
     keywords = {Robustness, Polytope, Convexity, Neural Networks}
 }
 ```
+
+> **TIP**: You can download our benchmark ONNX neural network models in the paper from [Google Drive link](https://drive.google.com/file/d/1NDENMK_evnNnzgx2ioCefcs-Dq3biQqL/view?usp=sharing).
+
+> **See Also**:
+> We provide a _regularly maintained and updated_ repo for the algorithm part in [wraact](https://github.com/ZhongkuiMa/wraact).
 
 ## What is WraLU?
 
