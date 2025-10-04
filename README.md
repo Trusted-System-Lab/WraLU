@@ -3,29 +3,28 @@
 ![image-20240123103831526](README.assets/image-20240123103831526.png)
 
 Welcome to **WraLU**—the **ReLU Hull Approximation** tool that’s revolutionizing neural network verification!
-
 WraLU is designed to calculate the **ReLU hull**, an essential technique for overcoming the challenges of non-linearity in activation functions. If you're working on neural network verification or robustness, WraLU is your go-to solution for fast and precise ReLU hull approximation.
 
 > **TIP**: You can download our benchmark ONNX neural network models in the paper from [Google Drive link](https://drive.google.com/file/d/1NDENMK_evnNnzgx2ioCefcs-Dq3biQqL/view?usp=sharing).
 
-Our groundbreaking paper, **ReLU Hull Approximation**, has been accepted at **POPL’24** and is available here:
+This is an artifact for our paper [ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917) (POPL’24). You can cite our paper if you find WraLU useful in your research.
 
-```tex
-@article{10.1145/3632917,
-author = {Ma, Zhongkui and Li, Jiaying and Bai, Guangdong},
-title = {ReLU Hull Approximation},
-year = {2024},
-issue_date = {January 2024},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {8},
-number = {POPL},
-url = {https://doi.org/10.1145/3632917},
-doi = {10.1145/3632917},
-month = {jan},
-articleno = {75},
-numpages = {28},
-keywords = {Robustness, Polytope, Convexity, Neural Networks}
+```bibtex
+@article{ma2024relu,
+    author = {Ma, Zhongkui and Li, Jiaying and Bai, Guangdong},
+    title = {ReLU Hull Approximation},
+    year = {2024},
+    issue_date = {January 2024},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {8},
+    number = {POPL},
+    url = {https://doi.org/10.1145/3632917},
+    doi = {10.1145/3632917},
+    month = {jan},
+    articleno = {75},
+    numpages = {28},
+    keywords = {Robustness, Polytope, Convexity, Neural Networks}
 }
 ```
 
